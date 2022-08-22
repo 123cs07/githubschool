@@ -5,3 +5,7 @@ added new feature and merge example.
 file updated on cloud plateform.
 
 this edit was happened on cloud git plateform.
+
+
+============
+this edit on local git bash using notepad windows 10
